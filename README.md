@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Diego Andres Rivero Fernandez**
 
 - GitHub: [@Diegoneitorex](https://github.com/Diegoneitorex)
 - Twitter: [@Diegoneitorex](https://twitter.com/Diegoneitorex)
