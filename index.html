@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sistema de Ventas de Casas</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <header>
+        <h1>Sistema de Ventas de Casas</h1>
+    </header>
+
+    <main>
+        <section class="form-section">
+            <h2>Agregar Nueva Casa</h2>
+            <form id="casaForm">
+                <label for="direccion">Dirección:</label>
+                <input type="text" id="direccion" name="direccion" required />
+            
+                <label for="precio">Precio (USD):</label>
+                <input type="number" id="precio" name="precio" min="0" required />
+            
+                <label for="descripcion">Descripción:</label>
+                <textarea id="descripcion" name="descripcion" rows="3" required></textarea>
+            
+                <label for="disponibilidad">Disponibilidad:</label>
+                <select id="disponibilidad" name="disponibilidad" required>
+                    <option value="disponible">Disponible</option>
+                    <option value="no disponible">No disponible</option>
+                </select>
+            
+                <button type="submit">Agregar Casa</button>     </form>
+        </section>
+
+        <section class="list-section">
+            <h2>Casas Disponibles</h2>
+            <div id="listaCasas" class="lista-casas">
+                <!-- Casas agregadas aparecerán aquí -->
+            </div>
+        </section>
+    </main>
+
+    <script src="archivo.js"></script>
+</body>
+
+</html>
