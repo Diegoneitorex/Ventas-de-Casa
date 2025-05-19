@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](file:///C:/Users/diego.rivero/Documents/Ventas-de-Casa/index.html)
+[Live Demo Link](http://127.0.0.1:5500/index.html)
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](http://127.0.0.1:5500/index.html).
+Feel free to check the [issues page](https://github.com/Diegoneitorex/Ventas-de-Casa/issues).
 
 ## Show your support
 
