@@ -2,7 +2,7 @@
 
 > ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoSize=auto&labelColor=white).
 
-![screenshot](./app_screenshot.png)
+![screenshot](Captura.PNG)
 
 Additional description about the project and its features.
 
