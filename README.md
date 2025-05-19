@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Diegoneitorex/Ventas-de-Casa/issues).
+Feel free to check the [issues page](http://127.0.0.1:5500/index.html).
 
 ## Show your support
 
