@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Diegoneitorex/Ventas-de-Casa)
+[Live Demo Link](https://diegoneitorex.github.io/Ventas-de-Casa/)
 
 ## Getting Started
 
